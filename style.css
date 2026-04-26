@@ -1,0 +1,32 @@
+.vc-sbic-wrap {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin-left: 6px;
+    position: relative;
+    top: 1px;
+    user-select: none;
+}
+
+.vc-sbic-badges .bd-profile-badge {
+    height: 15px;
+}
+
+.vc-sbic-fallback {
+    font-size: 10px;
+    opacity: 0.75;
+    padding: 1px 4px;
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--background-secondary) 60%, transparent);
+}
+
+.vc-sbic-fallback-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.vc-sbic-icon {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+}
