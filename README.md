@@ -16,16 +16,16 @@ Plugin para Vencord que permite adicionar badges customizadas ao seu perfil do D
 ## Screenshots
 
 ### Seleção de Badges
-![Seleção de Badges](screenshots/badge-selection.png)
+![Seleção de Badges](screenshots/selectbadges.png)
 
 ### Perfil com Badges Customizadas
-![Perfil Discord](screenshots/profile-example.png)
+![Perfil Discord](screenshots/profilenitro.png)
 
 ### Tooltip de Nitro
-![Tooltip Nitro](screenshots/nitro-tooltip.png)
+![Tooltip Nitro](screenshots/tooltipnitro.png)
 
 ### Página de Nitro
-![Página Nitro](screenshots/nitro-page.png)
+![Página Nitro](screenshots/pagnitro.png)
 
 ## Instalação
 
